@@ -166,3 +166,7 @@ ACCOUNT_USER_MODEL_USERNAME_FIELD = None
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_USERNAME_REQUIRED = False
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
+
+# 'https://www.youtube.com/watch?v=2PPSXonhIck'
+# 'https://www.youtube.com/watch?v=2PPSXonhIck&feature=youtu.be'
+# 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiHudTinfPrAhVC2JYKHUwFAYwYABAAGgJ0bA&ohost=www.google.com&cid=CAESQOD2-I2br5MejH-8HHIuSAaAxC3HI9YFGuvRsz613TxSCmaY-tmKMGThgEFS55bPqp67I3b8-qIG1IhBWV6Gl0w&sig=AOD64_2vUPhGub2UICujl2VMXuOjUGUrfw&q&adurl&ved=2ahUKEwjW_MrinfPrAhWCoOkKHUI2C6IQ0Qx6BAgPEAE'
